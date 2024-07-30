@@ -1,0 +1,46 @@
+#textbox {
+    font-size: large;
+    height: 30px;
+    width: 500px;
+    border-radius: 25px;
+}
+.graybar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+    background-size: 75% 50%;
+    background: #f1f1f1;
+    font: 13px/27px Arial, sans-serif;
+    height: 60px;
+    width: 100%;
+  }
+  .navbar {
+    padding: 20px;
+    text-align: right;
+    size: default;
+  }
+  
+  .navbar a {
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  #image {
+    height: 33px;
+    width: 92px;
+    margin: 15px;
+  }
+  body {
+    font-family: arial, sans-serif;
+  }
+#butt{
+background-color: black;
+width: 350px;
+color:#f1f1f1
+}
